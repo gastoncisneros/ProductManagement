@@ -1,0 +1,47 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.30311.775",
+  "GettingStartedDocument": {
+    "Uri": "https://go.microsoft.com/fwlink/?linkid=858517"
+  },
+  "ExtendedData": {
+    "inputs": [
+      "http://buev-ti2070diis.hlgv.net:8082/NewBusiness/NewBusinessManagerGS.svc"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, GaliciaSegurosReference"
+    ],
+    "references": [
+      "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\bin\\Debug\\netstandard2.0\\Newtonsoft.Json.dll",
+      "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\bin\\Debug\\netstandard2.0\\Product Management Domain.dll",
+      "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\bin\\Debug\\netstandard2.0\\Product Management Shared.dll",
+      "Microsoft.Extensions.Configuration, {Microsoft.Extensions.Configuration, 2.2.0}",
+      "Microsoft.Extensions.Configuration.Abstractions, {Microsoft.Extensions.Configuration.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.Configuration.Binder, {Microsoft.Extensions.Configuration.Binder, 2.2.0}",
+      "Microsoft.Extensions.DependencyInjection.Abstractions, {Microsoft.Extensions.DependencyInjection.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.Logging, {Microsoft.Extensions.Logging, 2.2.0}",
+      "Microsoft.Extensions.Logging.Abstractions, {Microsoft.Extensions.Logging.Abstractions, 2.2.0}",
+      "Microsoft.Extensions.Logging.Configuration, {Microsoft.Extensions.Logging.Configuration, 2.2.0}",
+      "Microsoft.Extensions.Logging.Console, {Microsoft.Extensions.Logging.Console, 2.2.0}",
+      "Microsoft.Extensions.Logging.Debug, {Microsoft.Extensions.Logging.Debug, 2.2.0}",
+      "Microsoft.Extensions.Options, {Microsoft.Extensions.Options, 2.2.0}",
+      "Microsoft.Extensions.Options.ConfigurationExtensions, {Microsoft.Extensions.Options.ConfigurationExtensions, 2.2.0}",
+      "Microsoft.Extensions.Primitives, {Microsoft.Extensions.Primitives, 2.2.0}",
+      "System.ComponentModel.Annotations, {System.ComponentModel.Annotations, 4.5.0}",
+      "System.Memory, {System.Memory, 4.5.1}",
+      "System.Runtime.CompilerServices.Unsafe, {System.Runtime.CompilerServices.Unsafe, 4.5.1}",
+      "System.ServiceModel, {System.ServiceModel.Primitives, 4.4.4}",
+      "System.ServiceModel.Duplex, {System.ServiceModel.Duplex, 4.4.4}",
+      "System.ServiceModel.Http, {System.ServiceModel.Http, 4.4.4}",
+      "System.ServiceModel.NetTcp, {System.ServiceModel.NetTcp, 4.4.4}",
+      "System.ServiceModel.Primitives, {System.ServiceModel.Primitives, 4.4.4}",
+      "System.ServiceModel.Security, {System.ServiceModel.Security, 4.4.4}"
+    ],
+    "targetFramework": "netstandard2.0",
+    "typeReuseMode": "All"
+  }
+}

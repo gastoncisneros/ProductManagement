@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3aU/EFreGHzDXj0trb8x63byRqvJA2U8cQht8r0AWmtrgowgpN/Lme7lU+A9p6ON9VocR/TR+XfJaApa4Q8jLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaston\\source\\repos\\Product Management\\Product Management Shared\\Product Management Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaston\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gaston\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

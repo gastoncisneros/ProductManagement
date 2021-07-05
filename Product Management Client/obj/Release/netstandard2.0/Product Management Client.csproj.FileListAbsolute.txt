@@ -1,0 +1,16 @@
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Product Management Client.deps.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Product Management Client.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Product Management Client.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Product Management Domain.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Product Management Shared.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Product Management Shared.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Product Management Domain.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\bin\Release\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\obj\Release\netstandard2.0\Product Management Client.csprojAssemblyReference.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\obj\Release\netstandard2.0\Product Management Client.csproj.CoreCompileInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\obj\Release\netstandard2.0\Product Management Client.AssemblyInfoInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\obj\Release\netstandard2.0\Product Management Client.AssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\obj\Release\netstandard2.0\Product Management Client.csproj.CopyComplete
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\obj\Release\netstandard2.0\Product Management Client.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Client\obj\Release\netstandard2.0\Product Management Client.pdb

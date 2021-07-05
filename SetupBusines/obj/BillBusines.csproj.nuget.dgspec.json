@@ -1,0 +1,343 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\SetupBusines\\BillBusines.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\Product Management Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\Product Management Client.csproj",
+        "projectName": "Product Management Client",
+        "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\Product Management Client.csproj",
+        "packagesPath": "C:\\Users\\Juan Ignacio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Ignacio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Shared\\Product Management Shared.csproj": {
+                "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Shared\\Product Management Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "System.ServiceModel.Duplex": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Http": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.NetTcp": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            },
+            "System.ServiceModel.Security": {
+              "target": "Package",
+              "version": "[4.4.*, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Core\\Product Management Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Core\\Product Management Core.csproj",
+        "projectName": "Product Management Core",
+        "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Core\\Product Management Core.csproj",
+        "packagesPath": "C:\\Users\\Juan Ignacio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Ignacio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\Product Management Client.csproj": {
+                "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\Product Management Client.csproj"
+              },
+              "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Domain\\Product Management Domain.csproj": {
+                "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Domain\\Product Management Domain.csproj"
+              },
+              "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Shared\\Product Management Shared.csproj": {
+                "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Shared\\Product Management Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Domain\\Product Management Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Domain\\Product Management Domain.csproj",
+        "projectName": "Product Management Domain",
+        "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Domain\\Product Management Domain.csproj",
+        "packagesPath": "C:\\Users\\Juan Ignacio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Ignacio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Shared\\Product Management Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Shared\\Product Management Shared.csproj",
+        "projectName": "Product Management Shared",
+        "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Shared\\Product Management Shared.csproj",
+        "packagesPath": "C:\\Users\\Juan Ignacio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Ignacio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Domain\\Product Management Domain.csproj": {
+                "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Domain\\Product Management Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\SetupBusines\\BillBusines.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\SetupBusines\\BillBusines.csproj",
+        "projectName": "BillBusines",
+        "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\SetupBusines\\BillBusines.csproj",
+        "packagesPath": "C:\\Users\\Juan Ignacio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\SetupBusines\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Ignacio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Core\\Product Management Core.csproj": {
+                "projectPath": "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Core\\Product Management Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

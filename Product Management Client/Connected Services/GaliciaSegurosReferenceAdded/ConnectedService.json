@@ -1,0 +1,33 @@
+﻿{
+  "ProviderId": "Microsoft.VisualStudio.ConnectedService.Wcf",
+  "Version": "15.0.30311.775",
+  "GettingStartedDocument": {
+    "Uri": "https://go.microsoft.com/fwlink/?linkid=858517"
+  },
+  "ExtendedData": {
+    "inputs": [
+      "http://172.31.2.70:8082/Argentina/NewBusinessGroupGeneral.svc?wsdl"
+    ],
+    "collectionTypes": [
+      "System.Array",
+      "System.Collections.Generic.Dictionary`2"
+    ],
+    "namespaceMappings": [
+      "*, GaliciaConnectedServiceAdded"
+    ],
+    "references": [
+      "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\bin\\Debug\\netstandard2.0\\Newtonsoft.Json.dll",
+      "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\bin\\Debug\\netstandard2.0\\Product Management Domain.dll",
+      "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\bin\\Debug\\netstandard2.0\\Product Management Shared.dll",
+      "C:\\Users\\Juan Ignacio\\source\\repos\\Galicia-Repos\\Product Management\\Product Management Client\\bin\\Debug\\netstandard2.0\\System.ComponentModel.Annotations.dll",
+      "System.ServiceModel, {System.ServiceModel.Primitives, 4.4.4}",
+      "System.ServiceModel.Duplex, {System.ServiceModel.Duplex, 4.4.4}",
+      "System.ServiceModel.Http, {System.ServiceModel.Http, 4.4.4}",
+      "System.ServiceModel.NetTcp, {System.ServiceModel.NetTcp, 4.4.4}",
+      "System.ServiceModel.Primitives, {System.ServiceModel.Primitives, 4.4.4}",
+      "System.ServiceModel.Security, {System.ServiceModel.Security, 4.4.4}"
+    ],
+    "targetFramework": "netstandard2.0",
+    "typeReuseMode": "All"
+  }
+}

@@ -1,0 +1,23 @@
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management.deps.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management.runtimeconfig.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management.runtimeconfig.dev.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management Client.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management Core.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management Domain.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management Shared.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management Core.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management Client.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management Domain.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Debug\netcoreapp2.2\Product Management Shared.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.csprojAssemblyReference.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.csproj.CoreCompileInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.RazorAssemblyInfo.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.RazorAssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.AssemblyInfoInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.AssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.RazorTargetAssemblyInfo.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.csproj.CopyComplete
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Debug\netcoreapp2.2\Product Management.pdb

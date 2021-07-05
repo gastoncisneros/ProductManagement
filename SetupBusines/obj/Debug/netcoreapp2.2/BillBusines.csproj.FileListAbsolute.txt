@@ -1,0 +1,6 @@
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\BillBusines.csprojAssemblyReference.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\BillBusines.csproj.CoreCompileInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\BillBusines.RazorAssemblyInfo.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\BillBusines.RazorAssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\BillBusines.AssemblyInfoInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\BillBusines.AssemblyInfo.cs

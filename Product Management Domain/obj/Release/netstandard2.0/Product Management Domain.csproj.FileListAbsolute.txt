@@ -1,0 +1,14 @@
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\bin\Release\netstandard2.0\Product Management Domain.deps.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\bin\Release\netstandard2.0\Product Management Domain.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\bin\Release\netstandard2.0\Product Management Domain.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\bin\Release\netstandard2.0\Newtonsoft.Json.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\bin\Release\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\bin\Release\netstandard2.0\Newtonsoft.Json.xml
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\bin\Release\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\obj\Release\netstandard2.0\Product Management Domain.csprojAssemblyReference.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\obj\Release\netstandard2.0\Product Management Domain.csproj.CoreCompileInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\obj\Release\netstandard2.0\Product Management Domain.AssemblyInfoInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\obj\Release\netstandard2.0\Product Management Domain.AssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\obj\Release\netstandard2.0\Product Management Domain.csproj.CopyComplete
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\obj\Release\netstandard2.0\Product Management Domain.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management Domain\obj\Release\netstandard2.0\Product Management Domain.pdb

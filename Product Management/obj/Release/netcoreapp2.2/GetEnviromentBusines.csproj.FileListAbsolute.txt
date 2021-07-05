@@ -1,0 +1,23 @@
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\GetEnviromentBusines.deps.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\GetEnviromentBusines.runtimeconfig.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\GetEnviromentBusines.runtimeconfig.dev.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\GetEnviromentBusines.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\GetEnviromentBusines.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\Product Management Client.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\Product Management Core.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\Product Management Domain.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\Product Management Shared.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\Product Management Core.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\Product Management Client.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\Product Management Domain.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\bin\Release\netcoreapp2.2\Product Management Shared.pdb
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.csprojAssemblyReference.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.csproj.CoreCompileInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.RazorAssemblyInfo.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.RazorAssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.AssemblyInfoInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.AssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.RazorTargetAssemblyInfo.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.csproj.CopyComplete
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\Product Management\obj\Release\netcoreapp2.2\GetEnviromentBusines.pdb

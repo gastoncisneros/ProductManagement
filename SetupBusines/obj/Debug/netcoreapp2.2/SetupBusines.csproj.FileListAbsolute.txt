@@ -1,0 +1,11 @@
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\bin\Debug\netcoreapp2.2\SetupBusines.deps.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\bin\Debug\netcoreapp2.2\SetupBusines.runtimeconfig.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\bin\Debug\netcoreapp2.2\SetupBusines.runtimeconfig.dev.json
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\bin\Debug\netcoreapp2.2\SetupBusines.dll
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\SetupBusines.csprojAssemblyReference.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\SetupBusines.csproj.CoreCompileInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\SetupBusines.RazorAssemblyInfo.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\SetupBusines.RazorAssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\SetupBusines.AssemblyInfoInputs.cache
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\SetupBusines.AssemblyInfo.cs
+C:\Users\Juan Ignacio\source\repos\Galicia-Repos\Product Management\SetupBusines\obj\Debug\netcoreapp2.2\SetupBusines.RazorTargetAssemblyInfo.cache
